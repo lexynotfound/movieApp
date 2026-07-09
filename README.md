@@ -1,4 +1,4 @@
-# MovieAssessmentApps
+# MovieAssessmentApp
 
 A native Android application for browsing movies using The Movie Database (TMDB) API.
 Built as a technical assessment for frontend mobile.
